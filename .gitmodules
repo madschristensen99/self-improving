@@ -1,5 +1,1 @@
-[submodule "cline"]
-    path = cline
-    url = https://github.com/madschristensen99/cline.git
-    branch = 86f463496cc814cf0055dbca4132b7f827425c53[submodule "cline"]\n    path = cline\n    url = https://github.com/madschristensen99/cline.git\n    branch = 86f463496cc814cf0055dbca4132b7f827425c53
 [submodule "cline"]\n    path = cline\n    url = https://github.com/madschristensen99/cline.git\n    branch = 86f463496cc814cf0055dbca4132b7f827425c53
